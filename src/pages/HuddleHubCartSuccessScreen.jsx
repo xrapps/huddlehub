@@ -36,7 +36,7 @@ export default function () {
 
       <View style={styles.qrContainer}>
         <QRCode
-          value="https://www.facebook.com/lacerveceriadeportiva/?rf=124172847646501"
+          value="https://192.323.12.12:5000/"
           size={Dimensions.get('window').width / 2.5}
         />
       </View>
